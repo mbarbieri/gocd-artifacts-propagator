@@ -6,11 +6,11 @@
 
     <groupId>com.lambdastack.go</groupId>
     <artifactId>gocd-artifacts-propagator-downloader</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <go.version>15.2.0</go.version>
+        <go.version>16.10.0</go.version>
     </properties>
 
     <dependencies>
